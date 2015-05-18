@@ -12,6 +12,6 @@ Today is cloudy.
 Monday..
 
 ##Schedule
--OS
--basic design
+- OS
+- basic design
 
