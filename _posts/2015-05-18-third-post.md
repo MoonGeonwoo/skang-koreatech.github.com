@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my second post!"
+title:  "Welcome to my third post!"
 date:   2015-05-18 11:12:35
 categories: jekyll update
 ---
